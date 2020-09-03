@@ -1,8 +1,3 @@
-# Reproducible Research Course Project 1
-
-*This is my submission for Reproducible Research Course Project 1. To read more information view the [ReadMe](https://github.com/massyfigini/RepData_PeerAssessment1/blob/master/README.md) on GitHub.*
-
-The data for the assignment can be downloaded [here](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip).  
 
 <br>
 
